@@ -1,5 +1,5 @@
 ### Hi. My name is Zijian Su.
-I am a Backend Engineer. I use Golang, Python. And I focus on K8s.
+I am a Backend Engineer. I use Golang, Python, C++. And I focus on K8s.
 
 * 🍎 I interned at Tusimple which is an American AI driverless company. 
 * ⛷ I worked on CICD, K8s and Go developed as an intern. 
