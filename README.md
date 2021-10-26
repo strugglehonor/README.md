@@ -1,7 +1,6 @@
-### Hi. My name is ZijianSu.
-I am a Backend Engineer. I use Golang, Python, C++. And I focus on K8s.
+### My name is ZijianSu.
 
-* 🍎 I interned at Tusimple which is an American AI driverless company. 
-* ⛷ I worked on K8s and Go developed as an intern. 
+* 🍎 I interned at Tusimple which is an AI driverless company. 
 * 🍉 And now, I am in Tencent.
+* ⛷ I worked on K8s and Go developed as an intern. 
 * 🐮 How to reach me: su2537731609@gmail.com
